@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Maia Solomon"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
@@ -11,20 +11,16 @@ about:
       href: mailto:you@uh.edu
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/MaiaSolomon97
 ---
 
 ## About
 
-Write two or three sentences about who you are, what you study, and what kinds of work interest you.
+I am in my third year of the PhD program at the University of Houston. My research interests include gender representation and the judiciary.
 
 ## Publications
 
 - Add a citation and a link to a paper here. If you do not have a publication yet, list a working paper or rename this section **Research**.
-
-## Teaching
-
-- Add a course, workshop, tutoring role, or teaching interest here.
 
 ## Working Papers
 
