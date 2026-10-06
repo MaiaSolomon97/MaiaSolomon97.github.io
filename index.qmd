@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:you@uh.edu
+      href: mailto:maiasolomon97@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/MaiaSolomon97

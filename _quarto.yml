@@ -5,7 +5,7 @@ project:
     - files/
 
 website:
-  title: "Your Name"
+  title: "Maia Solomon"
   navbar:
     right:
       - text: "CV"
