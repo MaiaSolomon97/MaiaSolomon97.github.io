@@ -3,7 +3,7 @@ title: "Maia Solomon"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
-  image: files/profile-placeholder.svg
+  image: files/maiapicture.png
   image-alt: "Placeholder profile picture"
   links:
     - icon: envelope
