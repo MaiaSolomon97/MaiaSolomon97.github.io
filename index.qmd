@@ -3,7 +3,7 @@ title: "Maia Solomon"
 subtitle: "Graduate student in political science"
 about:
   template: jolla
-  image: files/maiapicture.png
+  image: files/maiapicture.jpg
   image-alt: "Placeholder profile picture"
   links:
     - icon: envelope
@@ -16,12 +16,11 @@ about:
 
 ## About
 
-I am in my third year of the PhD program at the University of Houston. My research interests include gender representation and the judiciary.
+I am a third-year PhD student in Political Science at the University of Houston. My research interests include gender and political representation, judicial politics, and the presidency. More specifically, I am interested in how political and institutional pressures shape presidential nominations to the federal judiciary, particularly through the lens of the glass cliff phenomenon and symbolic representation.
 
-## Publications
+I hold a Master of Science in Homeland Security Studies and a Bachelor of Science in Criminal Justice from Sam Houston State University. In addition to my doctoral studies, I work as an Emergency Management Specialist at the University of Houston, where I support institutional emergency preparedness, planning, and outreach initiatives.
 
-- Add a citation and a link to a paper here. If you do not have a publication yet, list a working paper or rename this section **Research**.
 
 ## Working Papers
 
-- Add a working-paper title, coauthors, status, and a link to a draft when one is available.
+- Gendered Judicial Nominations and the Glass Cliff in the Federal Judiciary — Work in progress. Examines whether political and institutional pressures influence presidential decisions to nominate women to federal courts, with particular attention to state policy environments and presidential partisanship.
